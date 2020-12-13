@@ -1,4 +1,4 @@
-# step-1
+# Step-1
 word,num,way = input().split()
 
 num = int(num)
@@ -9,6 +9,7 @@ for i in range(len(word)):
 
 
 #왼쪽으로 입력받은 num만큼 shift하라
+
 if (way =='l'or way=='L') :
    if(num>=0):
      for i in range(num):
