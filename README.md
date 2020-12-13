@@ -1,6 +1,7 @@
 # Step-1
 
 #변수 입력 받기
+
   word,num,way = input().split()
   num = int(num)
 
