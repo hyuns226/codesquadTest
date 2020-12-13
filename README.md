@@ -1,6 +1,7 @@
 # Step-1
-word,num,way = input().split()
 
+#변수 입력 받기
+word,num,way = input().split()
 num = int(num)
 
 word_list = []
