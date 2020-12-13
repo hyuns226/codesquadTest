@@ -2,12 +2,12 @@
 
 #변수 입력 받기
 
-  word,num,way = input().split()
-  num = int(num)
+    word,num,way = input().split()
+    num = int(num)
 
-  word_list = []
-  for i in range(len(word)):
-    word_list.append(word[i])
+    word_list = []
+    for i in range(len(word)):
+      word_list.append(word[i])
 
 
 #왼쪽으로 입력받은 num만큼 shift하라
