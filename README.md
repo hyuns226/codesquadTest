@@ -58,5 +58,6 @@
 
             word_list[len(word_list)-1] = temp
 
+결과를 출력하라
 
-print(result)
+        print(result)
